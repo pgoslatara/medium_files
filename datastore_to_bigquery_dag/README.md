@@ -1,1 +1,1 @@
-This directory relates to the [Using Apache Airflow to extract Datastore entities to BigQuery](https://pgoslatara.medium.com/using-apache-airflow-to-extract-datastore-entities-to-bigquery-3f19b585b29a]) blog.
+This directory relates to the [Using Apache Airflow to extract Datastore entities to BigQuery](https://pgoslatara.medium.com/using-apache-airflow-to-extract-datastore-entities-to-bigquery-3f19b585b29a) blog.
